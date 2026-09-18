@@ -20,7 +20,7 @@ No app to install, no controller to plug in — just a browser on each screen.
 5. Fly through rings and around obstacles for as long as you can. Your score
    is the distance flown.
 
-> 🎮 **Play now:** _link coming soon — check back here for the live URL._
+> 🎮 **Play now:** [https://fly.bysimon.dev](https://fly.bysimon.dev)
 
 ## Report a bug or request a feature
 
